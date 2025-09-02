@@ -1,4 +1,4 @@
-# Checkpoint-01---Soluções em Energias Renováveis e Sustentáveis
+# Checkpoint 01 - Análise de Dados de Consumidores de Energia
 ## Integrantes:
 Gustavo Cordeiro Braga - RM: 562247
 
